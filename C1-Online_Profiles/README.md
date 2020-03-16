@@ -13,5 +13,4 @@ https://github.com/WillBrinkman
 https://www.linkedin.com/in/william-brinkman-33007180/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
+https://github.com/WillBrinkman/liftoff-assignments/blob/master/William%20Brinkman%20R%C3%A9sum%C3%A9.pdf
